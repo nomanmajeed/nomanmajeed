@@ -29,6 +29,7 @@ I strongly belive we the professionals of tech industry need to learn and innova
  - Frontend (Dynamic): React, Vue, JS, JQuery
  - Frontend (Design): Html5, CSS3, Bootstrap5, Tailwindcss
  - Backend: Python (Django), PHP (Laravel and CodeIgniter)
+ - Database: MS-SQL Server, MySQL, PostgreSQL, SQLite3
  
 ### Other ways to reach me
 &nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/nomanmajeed/nomanmajeed/master/linkedin-icon.png)](https://www.linkedin.com/in/nomanmajeed986/) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/nomanmajeed/nomanmajeed/master/instagram-icon.png)](https://www.instagram.com/numanmalik717/)
