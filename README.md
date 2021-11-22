@@ -1,7 +1,7 @@
 ### Hi there I am Noman Majeed 👋
 
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="#"><strong>Analytics Private Limited</strong></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="#"><strong>Datics.ai</strong></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nomanmajeed986?label=Follow)
