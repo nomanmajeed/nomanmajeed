@@ -14,7 +14,7 @@
 
 ### Gist About me
 
-- 👨🏻‍💻 I am a passionate Python Django, Django Rest Framework and PHP CodeIgniter/Laravel Web Developer
+- 👨🏻‍💻 I am a passionate Python and Javascript developer with hands-on experience in frameworks like Django, Django Rest Framework, FastAPI, React.js and Next.js.
 - 🛸 Learning everyday, currently learning to master Django Rest Framework, React.js and Tailwindcss etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 📺 Share things I know.
