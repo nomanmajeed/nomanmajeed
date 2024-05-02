@@ -1,7 +1,7 @@
 ### Hi there I am Noman Majeed 👋
 
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="#"><strong>Datics.ai</strong></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://usermaven.com/"><strong>Usermaven.io</strong></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nomanmajeed986?label=Follow)
@@ -26,10 +26,10 @@ I strongly belive we the professionals of tech industry need to learn and innova
 <img align='right' src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="230">
 
 ### My Technology Stack Includes
- - Frontend (Dynamic): React, Vue, JS, JQuery
+ - Frontend (Dynamic): React.js, Next.js, VanillaJS, JQuery
  - Frontend (Design): Html5, CSS3, Bootstrap5, Tailwindcss
- - Backend: Python (Django, DRF), PHP (Laravel and CodeIgniter)
- - Database: MS-SQL Server, MySQL, PostgreSQL, SQLite3
+ - Backend: Python (Django, DRF, FastAPI), JS (Express.js)
+ - Database: MS-SQL Server, MySQL, PostgreSQL, SQLite3, MongoDB, Clickhouse
  
 ### Other ways to reach me
 &nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/nomanmajeed/nomanmajeed/master/linkedin-icon.png)](https://www.linkedin.com/in/nomanmajeed986/) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/nomanmajeed/nomanmajeed/master/instagram-icon.png)](https://www.instagram.com/numanmalik717/)
